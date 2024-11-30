@@ -1,5 +1,5 @@
 # Online-Food-Delivery-System
-webpage for online food delivery system using HTML and CSS
+webpage for online food delivery system using HTML
 <!--Filename - contact.html-->
 
 <!DOCTYPE html>
